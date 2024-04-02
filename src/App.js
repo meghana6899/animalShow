@@ -24,7 +24,7 @@ function App() {
   return (
     <div className="app">
       <h1>I Love Animals</h1>
-      <button onClick={handleClick}>Add Animal & Click the Heart</button>
+      <button onClick={handleClick}>Add Animal & Click the Heart❤</button>
       <p className='animal-list'>{renderedAnimals}</p>
     </div>
   );
